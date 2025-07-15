@@ -1,0 +1,11 @@
+Biomarker,Gene/Symbol,Cancer Type,Biomarker Category,Testing Method,Tissue Type,Expression Pattern,Mutation Hotspot,Clinical Interpretation,Associated Therapy,Regulatory Status,Reference Source
+HER2,ERBB2,Breast Cancer,Predictive,IHC/FISH,Tumor Biopsy,Overexpression/Amplification,N/A,Indicates response to trastuzumab,Trastuzumab,FDA Approved,PLOS ONE (2018); WHO 2022
+EGFR,EGFR,NSCLC,Predictive,PCR/FISH,Tumor Biopsy,Mutation in exon 19/21,Exon 19/21,Indicates sensitivity to TKIs,Osimertinib,FDA Approved,NCCN NSCLC Guidelines
+Ki-67,MKI67,Breast, Prostate, Others,Proliferation Index,IHC,Tumor Biopsy,High % nuclei stained,N/A,Impacts grading and prognosis,None,Established Clinical Marker,Journal of Pathology Reviews
+p16,CDKN2A,Cervical, Head & Neck,Suspected HPV Surrogate,IHC,Tumor Biopsy,Diffuse nuclear and cytoplasmic staining,N/A,Supports CIN2/3 or HPV-associated lesions,None,Clinical Guideline,ASCCP Guidelines
+ALK,ALK,NSCLC,Predictive,FISH/IHC,Tumor Biopsy,Rearrangement detected by PCR,Fusion Breakpoint,Indicates ALK-inhibitor eligibility,Crizotinib,FDA Approved,Lung Cancer Journal 2020
+BRAF,BRAF,Melanoma, Colorectal,Predictive,PCR,Tumor Biopsy,V600E mutation,Exon 15 V600E,Supports therapy selection,Vemurafenib,FDA Approved,Nature Cancer 2019
+TP53,TP53,Multiple Types,Prognostic,NGS/Sequencing,Tumor Biopsy,Loss of function mutation,Exons 5–8,Poor prognosis indicator,None,Research Marker,Cancer Cell 2021
+ER/PR,ESR1, PGR,Breast Cancer,Predictive,IHC,Tumor Biopsy,Nuclear positivity,N/A,Determines hormone therapy response,Tamoxifen,FDA Approved,NCCN Breast Guidelines
+PD-L1,CD274,NSCLC, Melanoma, Others,Predictive,IHC,Tumor Biopsy,% tumor or immune cell positivity,N/A,Checkpoint inhibitor eligibility,Pembrolizumab,FDA Approved,NEJM 2015
+CEA,CEACAM5,Colorectal Cancer,Diagnostic,Serum Assay,Blood Sample,Elevated serum levels,N/A,Used to monitor recurrence,None,FDA Approved,Clin Lab Med 2017
