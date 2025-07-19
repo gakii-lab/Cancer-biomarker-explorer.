@@ -74,5 +74,9 @@ Contributions are welcome! Please:
 - Code and scripts: [MIT License](LICENSE)
 - Educational content and case notes: [CC BY 4.0 License](LICENSE-CC-BY-4.0.txt)
 
+---
+  ## 🚀 Launch the App
+- Try out the Cancer Biomarker Explorer live 👉 [Click here to open] (https://cancer-biomarker-explorer-jukjang5cz6fsupbj5np5q.streamlit.app/)
+
 > This project was created by Gakii to blend histopathology expertise and cancer research interests into a collaborative, academic tool. Feel free to fork, cite, or contribute to enhance cancer education and open science.
 > updated formating
